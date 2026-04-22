@@ -28,6 +28,8 @@ And There're Some of My Interests👇
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FINALxxx&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FINALxxx&langs_count=20&size_weight=0.5&count_weight=0.5&layout=donut-vertical)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FINALxxx&theme=tokyonight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FINALxxx&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FINALxxx&theme=tokyonight)
