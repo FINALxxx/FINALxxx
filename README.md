@@ -5,7 +5,7 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-![FINALxxx](https://socialify.git.ci/FINALxxx/FINALxxx/image?custom_description=Working+on+ECOS%2FSIG%2CMOLI.&custom_language=VSCode&description=1&font=Inter&language=1&name=1&pattern=Circuit+Board&theme=Light)
+![FINALxxx](https://socialify.git.ci/FINALxxx/FINALxxx/image?custom_description=Working+on+ECOS%2FEmbedded%2DSIG%2C%20MOLI.&custom_language=VSCode&description=1&font=Inter&language=1&name=1&pattern=Circuit+Board&theme=Light)
 
 My Language in Real World👇
 
